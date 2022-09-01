@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.97a8ffb2.js",
-    "static/media/backgroundLight.png": "/static/media/backgroundLight.2e6495e8410f1daad3b3.png",
-    "static/media/spaceman.png": "/static/media/spaceman.045ae437ffe88d06f334.png",
-    "static/media/manPlayingVideos.png": "/static/media/manPlayingVideos.db7fc536358929fb6716.png",
-    "index.html": "/index.html",
-    "main.97a8ffb2.js.map": "/static/js/main.97a8ffb2.js.map"
+    "main.js": "/portfolio/static/js/main.36c4c19b.js",
+    "static/media/backgroundLight.png": "/portfolio/static/media/backgroundLight.2e6495e8410f1daad3b3.png",
+    "static/media/spaceman.png": "/portfolio/static/media/spaceman.045ae437ffe88d06f334.png",
+    "static/media/manPlayingVideos.png": "/portfolio/static/media/manPlayingVideos.db7fc536358929fb6716.png",
+    "index.html": "/portfolio/index.html",
+    "main.36c4c19b.js.map": "/portfolio/static/js/main.36c4c19b.js.map"
   },
   "entrypoints": [
-    "static/js/main.97a8ffb2.js"
+    "static/js/main.36c4c19b.js"
   ]
 }
